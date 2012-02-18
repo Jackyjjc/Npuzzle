@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Npuzzle</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="restart">Restart</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="change_puzzle">Change Puzzle</string>
+    <string name="scoreText">Moves: </string>
+    <string name="score">0</string>
+    <string name="congratulation">Congratulation!! You finished the puzzle!!</string>
+    <string name="back">Back</string>
+    <string name="choose">Choose Your Own Image</string>
+</resources>
