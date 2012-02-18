@@ -1,3 +1,14 @@
+/***********************************************************
+ * GameController - the controller between View and Game   *
+ *                                                         *
+ * Author: Jacky, Chen                                     *
+ *                                                         *
+ * Last Modified: Feb, 18th, 2012                          *
+ *                                                         *
+ * Version: 1.0                                            *
+ *                                                         *
+ ***********************************************************/
+
 package com.qqending.npuzzle;
 
 import android.view.View;

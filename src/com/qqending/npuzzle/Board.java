@@ -1,3 +1,15 @@
+/**************************************************
+ * Board - the board implementation of the game   *
+ *                                                *
+ * Author: Jacky, Chen                            *
+ *                                                *
+ * Last Modified: Feb, 18th, 2012                 *
+ *                                                *
+ * Version: 1.0                                   *
+ *                                                *
+ **************************************************/
+
+
 package com.qqending.npuzzle;
 
 import java.util.Random;

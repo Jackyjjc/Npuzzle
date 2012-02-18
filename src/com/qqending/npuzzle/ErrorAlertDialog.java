@@ -1,3 +1,14 @@
+/*****************************************************
+ * ErrorAlertDialog - the customized AlertDialog     *
+ *                                                   *
+ * Author: Jacky, Chen                               *
+ *                                                   *
+ * Last Modified: Feb, 18th, 2012                    *
+ *                                                   *
+ * Version: 1.0                                      *
+ *                                                   *
+ *****************************************************/
+
 package com.qqending.npuzzle;
 
 import android.app.Activity;
